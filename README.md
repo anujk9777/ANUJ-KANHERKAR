@@ -1,7 +1,7 @@
 # Hi, I'm Anuj Kanherkar
 ### Cyber Forensics
 
-🛡️ **Certifications:** CCNA (Training) | CEH | CHFI (Pursuing)  
+🛡️ **Certifications:** CEH | CHFI (Pursuing)  
 🔍 **Specialities:** Digital Forensics
 
 ---
